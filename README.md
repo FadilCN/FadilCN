@@ -12,8 +12,6 @@
   Always experimenting to become a better creative technologist 🚀
 </p>
 
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://instagram.com/fadilxart"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -21,14 +19,12 @@
   <a href="mailto:mohammedfadiln@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
 
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flutter,html,css,js,dart,php,java,c,cpp,tensorflow,opencv,pandas,numpy,scikitlearn,blender,photoshop,illustrator,pr,ae,figma,raspberrypi" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -39,21 +35,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadilcn&theme=radical" height="150"/>
 </p>
 
----
-
 ### 🧠 Currently Learning
 <p align="center">
   TensorFlow, Machine Learning, Data Analysis, Firebase, Django, AWS
 </p>
 
----
 
 ### 🔥 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:4D4DFF,100:020024&height=120"/>
