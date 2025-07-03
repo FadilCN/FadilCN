@@ -21,9 +21,7 @@
 
 
 ### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,html,css,js,dart,php,java,c,cpp,tensorflow,opencv,pandas,numpy,scikitlearn,blender,photoshop,illustrator,pr,ae,figma,raspberrypi" />
-</p>
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,flutter,html,css,js,dart,php,java,c,cpp,tensorflow,opencv,pandas,numpy,scikitlearn" /><br> <img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,pr,ae,figma,raspberrypi,vscode,github" /> </div>
 
 
 ### 📊 GitHub Stats
